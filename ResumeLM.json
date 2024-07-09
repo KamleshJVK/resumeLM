@@ -1,0 +1,165 @@
+{
+    "name": "Kamlesh J V K",
+    "contactInformation": {
+        "phone": "+91 93617 07876",
+        "email": "kamleshjvk@gmail.com",
+        "address": "Chennai, India",
+        "linkedin": "https://www.linkedin.com/in/kamleshjvk",
+        "github": "https://github.com/KamleshJVK"
+    },
+    "summary": "Embarking as a final-year engineering graduate into the vibrant world of IT. I have a strong interest in significant outcomes and innovation. I'm keen to develop in fast-paced settings and dedicated to promoting organization growth.",
+    "education": [
+        {
+            "degree": "B.Tech - Computer Science and Engineering",
+            "institution": "SRM Institute of Science and Technology \u2013 Vadapalani, Campus",
+            "location": "Chennai, India",
+            "graduationDate": "2025",
+            "cgpa": "9.28"
+        }
+    ],
+    "skills": {
+        "technical": [
+            "Python (NumPy, Pandas)",
+            "Java",
+            "MySQL",
+            "PostgreSQL",
+            "OracleDB",
+            "LLamaIndex",
+            "Machine Learning",
+            "LLMs",
+            "GenAI",
+            "SDLC",
+            "Prompt Engineering"
+        ],
+        "nonTechnical": [
+            "Finance",
+            "Leadership and Team Player",
+            "Problem Management",
+            "Public and Professional Speaker",
+            "Content Writer",
+            "Student Mentor",
+            "Fluent Communicator",
+            "Canva",
+            "Prezi",
+            "Powerpoint"
+        ]
+    },
+    "projects": [
+        {
+            "title": "Exploring and Interpreting with given Data - Data Analytics",
+            "description": "Naive Bayes Algorithm to leverage probabilistic classification, and utilizing Decision Tree Algorithm for structured decision-making and predictive modeling",
+            "duration": "Aug 2023 \u2013 Sep 2023"
+        },
+        {
+            "title": "ANGEL ONE PANEL - Application Development, Zoho CLIQ TRIX 2023",
+            "description": "Introducing our latest widget and extension for the Zoho Cliqtrix app, crafted specifically for stock market enthusiasts! Powered by Angel One SmartAPI, this addition seamlessly integrates into your existing workflow, enhancing productivity and efficiency. With our widget and extension, professionals across all industries can now effortlessly invest their time, effort, and money into the stock market directly from the Zoho Cliqtrix platform. Easily BUY, SELL, TRACK LIVE ORDERS, CANCEL ORDERS, and curate personalized WATCHLISTS of intriguing stocks from the NSE market, all within the familiar interface of Zoho Cliqtrix.",
+            "duration": "Oct 2022 \u2013 Nov 2022"
+        }
+    ],
+    "experience": [
+        {
+            "title": "Deputy International Service Director",
+            "organization": "Rotary International District 3233",
+            "location": "Chennai, India",
+            "duration": "Jul 2024 \u2013 present",
+            "responsibilities": [
+                "International Affairs and Communications"
+            ]
+        },
+        {
+            "title": "Secretary (Design and Innovation Club, SRM VDP)",
+            "organization": "SRM Institute of Science and Technology \u2013 Vadapalani, Campus",
+            "location": "Chennai, India",
+            "duration": "May 2024 \u2013 present",
+            "responsibilities": [
+                "The primary point of contact for club-related communications and operations."
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Stellar Performer Award",
+            "organization": "Rotaract Club of Guindy",
+            "year": "2024"
+        },
+        {
+            "title": "Best Project Award - Shadow the CEO (GRM)",
+            "organization": "Rotary International District 3232",
+            "year": "2024"
+        },
+        {
+            "title": "Finalist and Honourable mention in Zoho CliqTrix2023",
+            "organization": "Zoho",
+            "year": "2022"
+        }
+    ],
+    "certifications": [
+        {
+            "title": "Crash Course on Python",
+            "issuingOrganization": "Google / Coursera"
+        },
+        {
+            "title": "Introduction to Networking and Storage",
+            "issuingOrganization": "IBM / Coursera"
+        },
+        {
+            "title": "Fundamental Algorithms: Design and Analysis",
+            "issuingOrganization": "NPTEL"
+        },
+        {
+            "title": "Introduction To Software Engineering",
+            "issuingOrganization": "IBM / Coursera"
+        },
+        {
+            "title": "Fundamentals of Deep Learning",
+            "issuingOrganization": "NVIDIA"
+        },
+        {
+            "title": "Python for Data Science",
+            "issuingOrganization": "NPTEL"
+        },
+        {
+            "title": "Introduction to Hardware and Operating Systems",
+            "issuingOrganization": "IBM / Coursera"
+        },
+        {
+            "title": "Theory Of Computation",
+            "issuingOrganization": "NPTEL"
+        },
+        {
+            "title": "Geodata Processing Using Python",
+            "issuingOrganization": "Indian Institute of Remote Sensing (IIRS), Indian Space Research Organization (ISRO)"
+        }
+    ],
+    "workshops": [
+        {
+            "title": "Global AI Bootcamp",
+            "organization": "Global AI Community , AI Camp",
+            "date": "Mar 2024"
+        },
+        {
+            "title": "AI Innovation Day",
+            "organization": "Azure Community Development Tamil Nadu",
+            "date": "Feb 2024"
+        },
+        {
+            "title": "Cloud and Gen AI Symposium",
+            "organization": "Azure Community Development Tamil Nadu",
+            "date": "Jan 2024"
+        }
+    ],
+    "extraCurricularActivities": [
+        {
+            "title": "Student Mentor",
+            "organization": "DataDrive: Real-World Insights",
+            "description": "Experience Data Analytics as a value-added course, seamlessly integrated into your curriculum, providing real-time applications for practical insights and empowering college juniors towards a data-driven future.",
+            "duration": "Jan 2024 \u2013 Mar 2024"
+        },
+        {
+            "title": "Professional Speaker",
+            "organization": "Microsoft Azure Developer Community TN",
+            "description": "I delivered my talks on GenAl, Retrieval Augmented Generation (RAG), Ray Framework. Enhanced benefits to 40+ attendees across various industries.",
+            "date": "Jan 2024"
+        }
+    ]
+}
